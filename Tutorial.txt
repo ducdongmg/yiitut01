@@ -1,0 +1,5 @@
+1. Nếu down source từ trang chủ, hãy giải nén file đó ra và truy cập vào folder framework từ
+command line. Sau đó
+	#> yiic webapp path_to_folder_will_install
+	
+2.
